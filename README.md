@@ -1,6 +1,7 @@
 Welcome to the PayPal Android SDK. This library will help you accept Card, PayPal, and Venmo payments in your Android app.
 
 ![Maven Central](https://img.shields.io/maven-central/v/com.paypal.android/card-payments?style=for-the-badge) ![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/com.paypal.android/card-payments?server=https%3A%2F%2Foss.sonatype.org&style=for-the-badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-android.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-android?ref=badge_shield)
 
 ## FAQ
 
@@ -80,3 +81,7 @@ Detekt rules are configured in `detekt/detekt-config.yml`.
 ## Contributing
 
 See our [GitHub Guidelines](#TODO: determine where this document will live and update link) for git practices followed in this project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-android.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fpaypal-android?ref=badge_large)
